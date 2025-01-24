@@ -1,0 +1,7 @@
+{
+	"name": "@jessevanassen/generate-skadis",
+	"description": "Generates SVGs of custom IKEA SKÅDIS boards, for 3D printing, laser cutting or CNC milling.",
+	"author": "Jesse van Assen <jesse.v.assen@gmail.com>",
+	"license": "ISC",
+	"version": "1.0.0"
+}
