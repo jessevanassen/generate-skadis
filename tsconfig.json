@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"noUncheckedIndexedAccess": true,
+
+		"target": "ESNext",
+		"module": "Preserve",
+
+		"noEmit": true,
+		"allowJs": true,
+		"checkJs": true,
+		"rootDir": "."
+	},
+	"include": ["lib/**/*.js", "bin/**/*.js"]
+}
